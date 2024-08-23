@@ -40,7 +40,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href='/assets/CV.pdf'
+              href='.\public\CV.pdf'
               download="CV.pdf"
               className="text-secondary hover:text-white text-[16px] font-medium cursor-pointer"
             >
@@ -73,7 +73,7 @@ const Navbar = () => {
               ))}
               <li>
                 <a
-                  href='/assets/CV.pdf'
+                  href='.\public\CV.pdf'
                   download="CV.pdf"
                   className="text-secondary hover:text-white font-poppins font-medium cursor-pointer text-[16px]"
                 >
